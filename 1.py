@@ -4,6 +4,8 @@ __author__ = "akhtar"
 
 
 def second_largest(lst):
+	""" Find the 2nd largest element in an array. """
+
 	first = -sys.maxsize - 1  # max=sys.maxsize
 	second = -sys.maxsize - 1
 
