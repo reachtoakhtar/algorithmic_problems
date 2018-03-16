@@ -3,7 +3,7 @@ __author__ = "akhtar"
 
 
 def par_checker(string):
-    """Check whether the input string contains a balanced set of parantheses."""
+    """ Check whether the input string contains a balanced set of parantheses. """
 
     s = []
     balanced = True

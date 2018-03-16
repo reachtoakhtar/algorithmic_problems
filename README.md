@@ -11,3 +11,6 @@ You have an array containing positive and negative numbers (no zeros). How will 
 
 3.py
 Check whether the given input contains a balanced set of parantheses.
+
+4.py
+Decimal to binary conversion.
