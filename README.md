@@ -8,3 +8,6 @@ Find the 2nd largest element in an array.
 
 2.py
 You have an array containing positive and negative numbers (no zeros). How will you find the sub-array with the largest sum.
+
+3.py
+Check whether the given input contains a balanced set of parantheses.
