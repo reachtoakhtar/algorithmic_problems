@@ -14,3 +14,6 @@ Check whether the given input contains a balanced set of parantheses.
 
 4.py
 Decimal to binary conversion.
+
+5.py
+Binary Search
