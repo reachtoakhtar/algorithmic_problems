@@ -17,3 +17,6 @@ Decimal to binary conversion.
 
 5.py
 Binary Search
+
+6.py
+Given an unsorted array, find a pair with given sum in it.
