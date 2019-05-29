@@ -20,3 +20,6 @@ Binary Search
 
 6.py
 Given an unsorted array, find a pair with given sum in it.
+
+7.py
+Given an m * n matrix, print the elements in spiral order.
