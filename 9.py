@@ -1,6 +1,4 @@
 s = "abc"
-o = ["abc", "acb", "cab", "bac", "bca", "cba"]
-
 
 def permute(s, i, length, lst):
     if i == length:
